@@ -4,9 +4,9 @@ export default function Footer() {
     <footer>
       <div className="container mx-auto text-center">
         <p className="pt-8 lg:pt-16 sm:w-3/4 w-screen mx-auto text-center">
-          © 2009-{year} Tête-à-Tête Salon. All rights reserved.
+          © 2015-{year} Dreadlocks City International. All rights reserved.
           <br />
-          617.559.0660 | 765 Beacon St. Newton Centre, MA 02459
+          13 Old Stanhope Road Claremont, Cape Town, South Africa
         </p>
       </div>
       <style jsx>{`

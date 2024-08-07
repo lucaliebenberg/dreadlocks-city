@@ -21,9 +21,9 @@ export default function Contact() {
             </picture>
             <div className="col-span-4">
               <p className="inline">
-                <b>Tête‑à‑Tête Salon </b>
+                <b>Dreadlocks City International</b>
                 <br />
-                765 Beacon Street, Newton Centre, MA 02459
+                13 Old Stanhope Road Claremont, Cape Town, South Africa
               </p>
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function Contact() {
               <img src="phone-contact.png" alt="Phone" />
             </picture>
             <div className="col-span-4">
-              <p className="inline">(617) 559‑0660</p>
+              <p className="inline">(+27) 083-739-0394</p>
             </div>
           </div>
           {/* hours */}
@@ -46,13 +46,13 @@ export default function Contact() {
             <div className="col-span-4 leading-relaxed">
               <p className="font-bold">Hours of Operation:</p>
               <p className="pt-3">
-                Monday: 9am - 5pm <br />
-                Tuesday: 8am - 8pm <br />
-                Wednesday: 8am - 5pm <br />
-                Thursday: 8am - 8pm <br />
-                Friday: 8am - 5pm <br />
-                Saturday: 8am - 4pm <br />
-                Sunday: Closed
+                Monday: 7:30am - 8pm <br />
+                Tuesday: 7:30am - 8pm <br />
+                Wednesday: 7:30am - 8pm<br />
+                Thursday: 7:30am - 8pm<br />
+                Friday: 7:30am - 8pm<br />
+                Saturday: 7:30am - 8pm<br />
+                Sunday: 8:00 am - 6pm
               </p>
             </div>
           </div>
@@ -100,7 +100,7 @@ export default function Contact() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.facebook.com/TeteATeteSalon"
+                href="https://l.wl.co/l?u=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100054658140135%26mibextid%3DZbWKwL"
                 className="contents"
               >
                 <picture>

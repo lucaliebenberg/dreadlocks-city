@@ -18,11 +18,11 @@ export default function Layout({ children, props }) {
   return (
     <div className="overflow-y-hidden overflow-x-hidden relative">
       <Head>
-        <title>Tete-a-Tete Salon | Newton</title>
+        <title>Dreadlocks City International | 13 Old Stanhope Road Claremont</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta
           name="description"
-          content="Tete-a-Tete hair salon in Newton, MA, 02459"
+          content="Dreadlocks City International | 13 Old Stanhope Road Claremont, Cape Town, South Africa"
         />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
@@ -56,25 +56,25 @@ export default function Layout({ children, props }) {
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="msapplication-config" content="/browserconfig.xml" />
         <meta name="theme-color" content="#f0eae7" />
-        <meta property="og:url" content="https://teteatetesalon.com/" />
+        <meta property="og:url" content="" />
         <meta
           name="keywords"
-          content="Hair salon, Newton, Hairdreams, hair color, nails, skin care, Organic coloring, Balayage, highlights"
+          content="Hair salon, Claremont, Hairdreams, dreadlocks start, dreadlocks maintenance, dreadlocks care, crochet, sister-locks, hip-hop dreadlocks, extensions, artifical extensions, treatment, coloring"
         />
-        <link rel="canonical" href="https://teteatetesalon.com/" />
+        <link rel="canonical" href="" />
         <meta
           name="google-site-verification"
-          content="ACxh2FEhQYkgtjFFbBKYBqdCaXctMgTMTvzlSlqI0BM"
+          content=""
         />
         <meta
           name="google-site-verification"
-          content="L9WVy8fDJV8puodulOqjeOIh3Pg_0odyE4hbv23KrdQ"
+          content=""
         />
-        <meta property="og:title" content="Tete-a-Tete salon" />
-        <meta property="og:site_name" content="Tete-a-Tete salon" />
+        <meta property="og:title" content="Dreadlocks-City-International" />
+        <meta property="og:site_name" content="Dreadlocks-City-International" />
         <meta
           property="og:description"
-          content="Whether you’re here to maintain your look or receive a beauty transformation, you can do it all Tête-à-Tête."
+          content=""
         />
         <meta property="og:image" content="/android-chrome-512x512.png" />
       </Head>

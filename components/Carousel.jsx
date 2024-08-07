@@ -6,7 +6,7 @@ export default function WelcomeCarousel() {
   const createCarouselItemImage = (index, options = {}) => (
     <div key={index} style={{ width: "max-content", height: "400px" }}>
       <Image
-        src={`https://res.cloudinary.com/dyj6lkekg/image/upload/tete/carousel_${index}.jpg`}
+        src={`/public/dreadlocks-assets/image-1.jpeg`}
         width={562}
         height={400}
         alt="Carousel welcome image"

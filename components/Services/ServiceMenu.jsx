@@ -7,22 +7,22 @@ export default function Services() {
     <div className="mx-auto">
       <SectionTitle title={"Our Services"} />
       <div className="grid lg:grid-rows-2 grid-rows-1 lg:grid-flow-col justify-center gap-6">
-        <Link href="/haircare">
+        <Link href="/haircare" legacyBehavior>
 
             <Service service={"Hair care"} background={"haircare"} />
 
         </Link>
-        <Link href="/skincare">
+        <Link href="/skincare" legacyBehavior>
 
             <Service service={"Skin care"} background={"skincare"} />
 
         </Link>
-        <Link href="/nails">
+        <Link href="/nails" legacyBehavior>
 
             <Service service={"Nails"} background={"nails"} />
 
         </Link>
-        <Link href="/waxing">
+        <Link href="/waxing" legacyBehavior>
 
             <Service service={"Waxing"} background={"waxing"} />
 

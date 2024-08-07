@@ -31,7 +31,7 @@ export default function Hairdreams(props) {
       </div>
 
       <div className="flex-1 xl:px-6 px-10 py-10 xl:col-span-1 col-span-2">
-        <h2 className="font-bold mb-4 text-xl">Hairdreams by KATYA</h2>
+        <h2 className="font-bold mb-4 text-xl">Dreadlocks City International</h2>
         <p className="mb-4">
           Hairdreams© is the leading supplier internationally of hair extensions
           and hair thickening in Premium quality, with partner salons in over 60
@@ -50,14 +50,14 @@ export default function Hairdreams(props) {
           Katya does exclusive service in applying Hairdreams microlines. Book
           your appointment for free consultation!
         </p>
-        <a
+        {/* <a
           className="contents"
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.hairdreamsusa.com/en/"
         >
           <Button className="mx-auto mt-6">Learn more</Button>
-        </a>
+        </a> */}
       </div>
     </div>
   );

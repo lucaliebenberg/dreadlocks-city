@@ -12,9 +12,7 @@ export default function Buttons(props) {
           Buy a gift card
         </button>
       </a>
-      <Link
-        href="/services"
-      >
+      <Link href="/services" legacyBehavior>
           <button
             className={`border ${
               props.mobile ? "ml-3" : "ml-24"

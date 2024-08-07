@@ -8,8 +8,7 @@ export default function SectionTitle(props) {
         {props.title}
       </h1>
       {/* conditional rendering of "Back to services button" */}
-      <Link href="/"
-      >
+      <Link href="/" legacyBehavior>
         <div
           style={{ fontSize: "1rem" }}
           className={`text-color font-light italic text underline inline-block absolute bottom-0 cursor-pointer ${

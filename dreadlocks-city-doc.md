@@ -14,7 +14,7 @@
 
 ## MAIN SERVICES
 
-### Extensions both human dreadlocks and  high quality artificial dreadlocks prices depends on the length for both human and artificial
+### Extensions both human dreadlocks and high quality artificial dreadlocks prices depends on the length for both human and artificial
 
 ### Styling dreadlocks: we charge R100 normal styles and R150 top notch styles
 

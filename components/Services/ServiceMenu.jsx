@@ -10,25 +10,29 @@ export default function Services() {
         <Link href="/haircare">
 
             {/* 1 */}
-            <Service service={"Hair care"} background={"haircare"} />
+            {/* TODO: Styling Dreadlocks */}
+            <Service service={"Styling Dreadlocks"} background={"/dreadlocks-assets/image-1.jpeg"} />
 
         </Link>
         <Link href="/skincare">
 
             {/* 2 */}
-            <Service service={"Skin care"} background={"skincare"} />
+            {/* TODO: Treatment */}
+            <Service service={"Treatment"} background={"/dreadlocks-assets/image-2.jpeg"} />
 
         </Link>
         <Link href="/nails">
 
             {/* 3 */}
-            <Service service={"Nails"} background={"nails"} />
+            {/* TODO: Colouring */}
+            <Service service={"Coloring"} background={"/dreadlocks-assets/image-3.jpeg"} />
 
         </Link>
         <Link href="/waxing">
 
             {/* 4 */}
-            <Service service={"Waxing"} background={"waxing"} />
+            {/* TODO: Crochet */}
+            <Service service={"Crochet"} background={"/dreadlocks-assets/image-4.jpeg"} />
 
         </Link>
       </div>

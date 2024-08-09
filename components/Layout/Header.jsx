@@ -42,18 +42,18 @@ export default function Header(props) {
               }
             >
               <picture>
-                <source type="image/webp" srcSet="logo.webp" />
-                <source type="image/png" srcSet="logo.png" />
-                {/* <img
-                  src="/logo.png"
+                <source type="image/jpeg" srcSet="/dreadlocks-assets/dreadlocks-city-logo.jpeg" />
+                <source type="image/jpeg" srcSet="/dreadlocks-assets/dreadlocks-city-logo.jpeg" />
+                <img
+                  src="/dreadlocks-assets/dreadlocks-city-logo.jpeg"
                   alt="Logo"
                   className={`${logo} hover:opacity-75 logo-transition`}
-                /> */}
+                />
               </picture>
               <span
                 className={`${textLogo} logo-transition font-logo uppercase sm:text-4xl text-2xl xl:leading-4 lg:leading-4 md:leading-normal leading-relaxed inline-block mr-4 py-3 whitespace-no-wrap text-white`}
               >
-                {/* Tête-à-Tête */}
+                Dreadlocks City International
               </span>
             </a>
             <button

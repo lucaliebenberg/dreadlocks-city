@@ -4,8 +4,8 @@ const members = [
     name: "MajorStar",
     title: "Owner",
     description:
-      "Something about MajorStart.",
-    photo: "https://picsum.photos/200/300",
+      "Something about MajorStar.",
+    photo: "/dreadlocks-assets/image-1.jpeg",
     link: "https://www.instagram.com/",
   },
   {
@@ -14,8 +14,7 @@ const members = [
     title: "Senior stylist and colorist",
     description:
       "Something about CJ.",
-    photo:
-      "https://picsum.photos/200/300",
+    photo: "/dreadlocks-assets/image-2.jpeg",
     link: "https://www.instagram.com/",
   },
   {
@@ -24,19 +23,18 @@ const members = [
     title: "Senior stylist and colorist",
     description:
       "Something about James.",
-    photo:
-      "https://picsum.photos/200/300",
+    photo: "/dreadlocks-assets/image-3.jpeg",
     link: "https://www.instagram.com/",
   },
-  // {
-  //   id: 4,
-  //   name: "Velma",
-  //   title: "Manager", // @TODO
-  //   description:
-  //     "For over a decade of service at Tete-A-Tete, Denis has been keeping up with the latest trends and innovations.", // @TODO
-  //   photo:
-  //     "https://res.cloudinary.com/dyj6lkekg/image/upload/c_crop,g_auto,h_500,w_600/tete/velma.jpg",
-  // },
+  {
+    id: 4,
+    name: "Another Member",
+    title: "Senior dread stylist",
+    description:
+      "Something about this person.",
+    photo: "/dreadlocks-assets/image-8.jpeg",
+    link: "https://www.instagram.com/",
+  },
   // {
   //   id: 5,
   //   name: "Tanya Mitnik",

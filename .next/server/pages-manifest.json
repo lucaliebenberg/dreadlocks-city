@@ -3,5 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/haircare": "pages/haircare.js"
+  "/haircare": "pages/haircare.js",
+  "/skincare": "pages/skincare.js"
 }

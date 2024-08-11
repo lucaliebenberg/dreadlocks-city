@@ -23,10 +23,10 @@ export default function Header(props) {
   const dropdown = showMiniNav ? "" : "";
 
   return (
-    <div className="fixed z-30 top-0 w-screen">
+    <div className="fixed z-30 top-0 w-screen bg-[#46A549]">
       <Phone />
       <nav
-        className={`relative flex flex-wrap items-center justify-between ${header} px-2 navbar-expand-lg navbar-bg`}
+        className={`relative flex flex-wrap items-center justify-between ${header} px-2 navbar-expand-lg bg-[#46A549]`}
       >
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div
@@ -61,19 +61,19 @@ export default function Header(props) {
               type="button"
               onClick={() => setNavbarOpen(!navbarOpen)}
             >
-              <span style={{ color: "#C4C4C4" }} className="text-5xl">
+              <span style={{ color: "#C4C4C4" }} className="text-2xl">
                 &#9776;
               </span>
             </button>
           </div>
           <div
             className={
-              `justify-center lg:flex flex-grow items-center` +
+              `justify-center lg:flex flex-grow items-center bg-[#46A549]` +
               (navbarOpen ? " flex" : " hidden")
             }
             id="example-navbar-danger"
           >
-            <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
+            <ul className="flex flex-col lg:flex-row list-none lg:ml-auto bg-[#46A549">
               <li className="nav-item">
                 <Link
                   passHref={true}
@@ -177,7 +177,7 @@ export default function Header(props) {
           font-weight: 600;
         }
         .navbar-bg {
-          background-color: #706d6c;
+          background-color: #46A549;
         }
         .font-logo {
           font-family: "News Cycle", sans-serif;
@@ -198,7 +198,7 @@ export default function Header(props) {
           transition: all 0.5s;
         }
         #example-navbar-danger {
-          background-color: #716c6c;
+          background-color: #46A549;
         }
         hr {
           display: none;

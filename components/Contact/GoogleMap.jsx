@@ -41,15 +41,15 @@ export default function Map() {
             mapContainerStyle={containerStyle}
             center={center}
             zoom={15}
-            // onLoad={onLoad}
+            onLoad={onLoad}
             onUnmount={onUnmount}
           >
             <Marker position={center}>
               <InfoWindow position={center}>
                 <div style={divStyle}>
                   <h1 className="text-2xl bold" style={{ color: "#895B4A" }}>
-                    <a href="https://www.google.com/maps/dir//Tete+A+Tete+Salon,+Beacon+Street,+Newton,+MA/@42.3306046,-71.2623209,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89e37882776a3071:0xb80e093582119c54!2m2!1d-71.192109!2d42.330626?hl=en">
-                      "Tête-à-Tête"
+                    <a href="https://g.co/kgs/YKjX8vp=en">
+                      Dreadlocks City International
                     </a>
                   </h1>
                 </div>
@@ -60,7 +60,7 @@ export default function Map() {
             className="contents"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.google.com/maps/dir//Tete+A+Tete+Salon,+Beacon+Street,+Newton,+MA/@42.3306046,-71.2623209,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89e37882776a3071:0xb80e093582119c54!2m2!1d-71.192109!2d42.330626?hl=en"
+            href="https://www.google.com/maps?um=1&ie=UTF-8&fb=1&gl=za&sa=X&geocode=KWfptYQNQ8wdMY22b4VY8m_H&daddr=13+Old+Stanhope+Rd,+Claremont,+Cape+Town,+7708=en"
           >
             <Button className="ml-auto">Get directions</Button>
           </a>

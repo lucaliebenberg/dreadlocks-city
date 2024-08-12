@@ -14,7 +14,7 @@ export default function Hairdreams(props) {
           loading={"eager"}
           priority={true}
           src={
-            "https://res.cloudinary.com/dyj6lkekg/image/upload/v1711816297/tete/hairdreams1.jpg"
+            "/dreadlocks-assets/image-6.jpeg"
           }
           alt="Hairdreams"
         />
@@ -24,7 +24,7 @@ export default function Hairdreams(props) {
           loading={"eager"}
           priority={true}
           src={
-            "https://res.cloudinary.com/dyj6lkekg/image/upload/v1711816297/tete/hairdreams2.jpg"
+            "/dreadlocks-assets/image-8.jpeg"
           }
           alt="Hairdreams"
         />

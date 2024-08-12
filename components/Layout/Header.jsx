@@ -161,7 +161,7 @@ export default function Header(props) {
               </li>
               <li className="nav-item bookingItem">
                 <a
-                  onClick={() => props.onClick(true)}
+                  href="tel:0837390394"
                   className="cursor-pointer px-3 py-4 lg:py-2 xl:py-2 flex items-center text-lg md:leading-snug hover:opacity-75 booking rounded-2xl ml-2 shadow-md"
                 >
                   Book Appointment

@@ -75,7 +75,7 @@ export default function Home() {
             className="absolute"
             style={{ top: "-170px" }}
           />
-          <Products />
+          {/* <Products /> */}
         </div>
         <div className="relative">
           <div

@@ -9,7 +9,7 @@ export default function Phone() {
         <source type="image/png" srcSet="phone.png" />
         <img src="/phone.png" alt="Phone" className="w-6 h-6 mr-2" />
       </picture>
-      <a href="tel:617-559-0660">
+      <a href="tel:0837390394">
         <span className="font-bold">Call us</span> +27 83 739 0394
       </a>
     </div>

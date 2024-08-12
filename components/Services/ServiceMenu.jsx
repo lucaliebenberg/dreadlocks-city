@@ -32,7 +32,7 @@ export default function Services() {
 
             {/* 4 */}
             {/* TODO: Crochet */}
-            <Service service={"Crochet"} background={"/dreadlocks-assets/image-4.jpeg"} />
+            <Service service={"Crochet"} background={"/dreadlocks-assets/image-6.jpeg"} />
 
         </Link>
       </div>

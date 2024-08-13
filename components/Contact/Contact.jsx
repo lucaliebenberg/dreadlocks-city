@@ -84,7 +84,7 @@ export default function Contact() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.instagram.com/teteateteccg/"
+                href="https://www.instagram.com/dreadlocks_city/"
                 className="contents"
               >
                 <picture>

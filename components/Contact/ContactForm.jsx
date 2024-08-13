@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "../../components/SectionTitle";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import ContactFormResponse from "./ContactFormResponse";
 import { useForm } from "../../components/Hooks/useForm";
 import Button from "../Button";

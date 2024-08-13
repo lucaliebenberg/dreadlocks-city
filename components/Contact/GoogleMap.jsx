@@ -4,6 +4,7 @@ import {
   LoadScript,
   Marker,
   InfoWindow,
+  onLoad
 } from "@react-google-maps/api";
 import Button from "../Button";
 const containerStyle = {

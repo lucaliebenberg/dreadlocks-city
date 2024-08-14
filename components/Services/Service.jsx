@@ -106,6 +106,7 @@ export default function Service(props) {
             </div>
             {isMobile ? <Refferal mobile={isMobile} /> : <Buttons />}
           </div>
+          {/* TODO: add if needed */}
           <HandyInfo />
         </div>
       </div>

@@ -45,11 +45,11 @@ export default function ContactForm() {
       <SectionTitle title={"Get in touch"} />
 
       <div className="mx-auto lg:w-1/2 sm:w-3/4 w-11/12">
-        <p className="italic text-gray-500 text-sm mb-4">
-          Please do not change or cancel appointments over email. To modify your
-          appointment call salon directly at +27 83 739 0394
+        <p className="italic text-gray-500 text-md mb-4 text-center">
+          Please do not change or cancel appointments without 24 hours notice.
         </p>
-        <form
+        {/* TODO: make use of form if email will be used for leads */}
+        {/* <form
           action="sumbit"
           className="mx-auto inline-block text-left w-full flex flex-col gap-4 pb-24"
           autoComplete="on"
@@ -121,7 +121,14 @@ export default function ContactForm() {
           <Button type="submit" className="px-24 mx-auto">
             Send
           </Button>
-        </form>
+        </form> */}
+        <div className="pb-4">
+          <a href="tel:0837390394">
+            <Button type="submit" className="px-24 mx-auto">
+                Call
+            </Button>
+          </a>
+        </div>
       </div>
       <ContactFormResponse
         setShowResponse={setShowResponse}

@@ -43,28 +43,28 @@ export default function Hairdreams(props) {
   <h2 className="font-semibold mb-4">Our Services</h2>
   <ul className="list-disc pl-6 mb-4">
     <li className="mb-2">
-      <strong>Crochet Retouch:</strong> Get a thorough double wash and a precise retouch for just R400 (African hair) or R500 (soft hair).
+      <strong>Crochet Retouch:</strong> Get a thorough double wash and a precise retouch for (African hair) or (soft hair).
     </li>
     <li className="mb-2">
-      <strong>Starting Dreadlocks:</strong> Begin your dreadlock journey with us for R700 (African hair) or R900 (soft hair).
+      <strong>Starting Dreadlocks:</strong> Begin your dreadlock journey with us for (African hair) or (soft hair).
     </li>
     <li className="mb-2">
       <strong>Extensions:</strong> We offer both human and high-quality artificial dreadlock extensions, with prices varying by length.
     </li>
     <li className="mb-2">
-      <strong>Styling:</strong> Choose from our classic styles for R100 or opt for our top-notch styles at R150.
+      <strong>Styling:</strong> Choose from our classic styles or opt for our top-notch styles.
     </li>
     <li className="mb-2">
-      <strong>Treatment:</strong> Pamper your scalp with a hot oil organic treatment, complete with a peppermint shampoo double wash and a black soap third wash, for an additional R100.
+      <strong>Treatment:</strong> Pamper your scalp with a hot oil organic treatment, complete with a peppermint shampoo double wash and a black soap third wash, for an additional add-on.
     </li>
     <li className="mb-2">
-      <strong>Colouring:</strong> We offer black dye services for R150 using our own products, or R100 if you bring your own dye.
+      <strong>Colouring:</strong> We offer black dye services using our own products, or an additional add-on if you bring your own dye.
     </li>
     <li className="mb-2">
-      <strong>Combining:</strong> Seamlessly combine your dreadlocks for R700 (African hair) or R900 (soft hair).
+      <strong>Combining:</strong> Seamlessly combine your dreadlocks for (African hair) or (soft hair).
     </li>
     <li className="mb-2">
-      <strong>Cutting:</strong> Transition from dreadlocks back to an afro for R750.
+      <strong>Cutting:</strong> Transition from dreadlocks back to an afro.
     </li>
   </ul>
   <p>
